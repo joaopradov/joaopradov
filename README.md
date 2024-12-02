@@ -1,15 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hello+World!;Welcome+to+my+GitHub+profile!;Ol%C3%A1%2C+Mundo!;Bem+vindo+ao+meu+perfil+GitHub!)](https://git.io/typing-svg)
 
 <h4 align="left">My name is João Vitor, and I from a Paraná, Brazil.<br><br>I am a Student of Systems Analysis and Development at UTFPR, passionate about technology and programming. I have strong learning skills, adaptability, and teamwork abilities.<br><br>I'm always eager to learn, open to exploring new programming languages, and expanding my skill set. I enjoy challenges and strive to develop creative and efficient solutions while continuously enhancing my knowledge in the technology field.</h4>
+<br>
 
 ###
+
+<h3>GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaopradov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopradov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
 ###
+<br>
+<h3> Technologies and Tools</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
@@ -41,13 +47,12 @@
   <img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge" height="30" alt="behance logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/joaopradov/joaopradov/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br>
+<h3>Contact</h3>
 
 <div align="left">
   <a href="https://instagram.com/joaopradov" target="_blank">
