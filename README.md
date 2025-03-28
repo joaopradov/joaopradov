@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hello+World!;Welcome+to+my+GitHub+profile!;Ol%C3%A1+Mundo!;Bem+vindo+ao+meu+perfil+GitHub!)](https://git.io/typing-svg)
 
-<h4 align="left">My name is João Vitor, and I from a Paraná, Brazil.<br><br>I am a Student of Systems Analysis and Development at UTFPR, passionate about technology and programming. I have strong learning skills, adaptability, and teamwork abilities.<br><br>I'm always eager to learn, open to exploring new programming languages, and expanding my skill set. I enjoy challenges and strive to develop creative and efficient solutions while continuously enhancing my knowledge in the technology field.</h4>
+<h4 align="left">Meu nome é João Vitor, e sou do Paraná, Brasil.<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas na UTFPR, apaixonado por tecnologia e programação. Tenho fortes habilidades de aprendizado, adaptabilidade e trabalho em equipe.<br><br>Estou sempre ansioso para aprender, aberto a explorar novas linguagens de programação e expandir meu conjunto de habilidades. Gosto de desafios e me esforço para desenvolver soluções criativas e eficientes, enquanto continuo aprimorando meu conhecimento na área de tecnologia.</h4>
 <br>
 
 ###
